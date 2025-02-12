@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.env
+
+# Byte-compiled / Cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs & Database
+*.log
+instance/
+*.sqlite3
+
+# IDE & OS-Specific Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dependencies (Optional, if using Docker)
+*.bak
+node_modules/
+
